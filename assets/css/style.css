@@ -1,0 +1,63 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #612166;
+}
+
+h5 {
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+h6 {
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+p{
+    font-weight: 400;
+    color: #707070;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+header {
+    background-image: url(../img/header_post.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
+
+.light {
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.pequeña {
+    font-weight: 300;
+    font-size: 12px;
+}
+
+.color {
+    color: #e6427a;
+}
+
+.fondo {
+    background-color: #e6427a;
+}
